@@ -13,5 +13,5 @@ ffmpeg -f pulse -i alsa_input.usb-Samson_Technologies_Samson_GoMic-00.analog-ste
 
 #notes - mkv container does not care for the aduio n or video in it. 
 #mpv is indeed very versatile for the playback 
-#the -map follows a certain order.
+#the -map follows a certain order, the sink/sources will changue names after reboot. 
 
