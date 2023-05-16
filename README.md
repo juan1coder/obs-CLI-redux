@@ -1,5 +1,5 @@
 # OBS CLI redux
-BASH script to mimic the OBS broadcasting software behavior and record, remix two audio sources on the fly, add thumbnails all using just CLI as a simple & main function. The only complex thing about this script its the filter. 
+BASH script to mimic the OBS broadcasting software behavior and record, remix two audio sources on the fly, add thumbnails all using just CLI as a simple & main function. The only complex thing about this script its the filter. This is a way of fine tuning in my case If I needed a simple script to record audio and microphone this can be done in OBS, however the file size was huge for my standards, this will produce a small file size output which was the purpose of this script.
 
 
 
