@@ -11,7 +11,7 @@ done
 
 
 
-#notes, the png file must have a name: cover_1.png in increments, same for the video_ filename. all files must be in the same directory for this bash script to work, find and join the png file to the mkv video. extensions and filenames matter in this case. (cover_"$1") & (video_"$1") are static the numbering will changue on the output file but its real on the dir files. Tou will need to rename your files, i used bulk renamer by thunar.  
+#notes, the png file must have a name: cover_1.png in increments, same for the video_ filename. all files must be in the same directory for this bash script to work, find and join the png file to the mkv video.\n extensions and filenames matter in this case. (cover_"$1") & (video_"$1") are static the numbering \n will changue on the output file but its real on the dir files. Tou will need to rename your files, i used \n bulk renamer by thunar.  
 #***You can add this into your .bashrc file. ***
 
 
