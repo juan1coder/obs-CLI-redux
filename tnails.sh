@@ -17,5 +17,7 @@ done
 #the numbering will changue on the output file but its real on the dir files. 
 #You will need to rename your files, i used  bulk renamer by thunar.  
 #***You can add this into your .bashrc file. ***
+#no need to add the #!/bin/bash to this script. 
+#I was using it and did not work until it was removed. 
 
 
